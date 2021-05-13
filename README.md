@@ -12,7 +12,7 @@ cd C:\Amazon\Lumberyard\1.271.\dev
 ```
 - Creating a new project 
 ```
-.\lmbr projects create MyFirstGam
+.\lmbr projects create MyFirstGame
 ```
 
 - Enabling current project
